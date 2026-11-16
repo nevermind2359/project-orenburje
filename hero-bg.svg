@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="720" viewBox="0 0 1920 720">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e3a5f"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1920" height="720" fill="url(#g)"/>
+  <path d="M0 518 Q 480 417, 960 518 T 1920 489 L 1920 720 L 0 720 Z" fill="#d97706" opacity="0.28"/>
+  <path d="M0 590 Q 672 503, 1344 612 T 1920 561 L 1920 720 L 0 720 Z" fill="#0f172a" opacity="0.45"/>
+  <circle cx="1574" cy="172" r="79" fill="#d97706" opacity="0.55"/>
+  <text x="50%" y="48%" dominant-baseline="middle" text-anchor="middle" fill="#f8fafc" font-family="Arial, sans-serif" font-size="43" font-weight="bold">Оренбургская область</text>
+  <text x="50%" y="58%" dominant-baseline="middle" text-anchor="middle" fill="#cbd5e1" font-family="Arial, sans-serif" font-size="25">Степные просторы, Уральские горы и культурное наследие</text>
+</svg>

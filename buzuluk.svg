@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#14532d"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#g)"/>
+  <path d="M0 360 Q 200 290, 400 360 T 800 340 L 800 500 L 0 500 Z" fill="#22c55e" opacity="0.28"/>
+  <path d="M0 410 Q 280 350, 560 425 T 800 390 L 800 500 L 0 500 Z" fill="#0f172a" opacity="0.45"/>
+  <circle cx="656" cy="120" r="55" fill="#22c55e" opacity="0.55"/>
+  <text x="50%" y="48%" dominant-baseline="middle" text-anchor="middle" fill="#f8fafc" font-family="Arial, sans-serif" font-size="30" font-weight="bold">Бузулукский бор</text>
+  <text x="50%" y="58%" dominant-baseline="middle" text-anchor="middle" fill="#cbd5e1" font-family="Arial, sans-serif" font-size="17">Национальный парк и вековые сосны</text>
+</svg>
